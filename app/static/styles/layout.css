@@ -1,0 +1,72 @@
+body{
+    background: #1a1a1a;
+    color: white;
+    height: 100% !important;
+    
+}
+
+
+
+
+#actionbar{
+    height: 30px !important;
+}
+#mySidebar{
+    background: #212121;
+    color: white;
+}
+#sidebarlogo{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 2em;
+}
+
+#dashitem{
+    margin-left: 10px;
+}
+
+#sidebarLink .nav-link:hover {
+    border-top-right-radius:20px;
+    border-bottom-right-radius: 20px;
+    background: #5AE82C !important;
+    
+}
+
+
+
+hr{
+    margin-top: 7px;
+    margin-bottom: 2px;
+    padding-bottom: 5px;
+    border-color: black;
+}
+
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;  /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    padding-bottom: 5px !important;
+    vertical-align: middle;
+  
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+  
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+  
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+  }
+
+  
